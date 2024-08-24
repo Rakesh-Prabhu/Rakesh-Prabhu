@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh-prabhu" alt="rakesh-prabhu" /></a> </p>
 
-- 🔭 I’m currently working on **“A novel tech"Liver Tumor Detection from computed tomography Image.(LTDS)”**
+- 🔭 I have worked on project **“A novel tech"Liver Tumor Detection from computed tomography Image.(LTDS)”**
 
 - 💬 Ask me about **Machine Learning, Python, Image Processing, Matlab, Deep Learning, Embedded system, VLSI**
 
